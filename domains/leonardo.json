@@ -1,0 +1,11 @@
+{
+    "description": "My portifolio page",
+    "repo": "https://github.com/LeonardoSilva-code/portifolio-web"
+    "owner": {
+        "username": "https://github.com/LeonardoSilva-code"
+    },
+    "record": {
+       "URL": "portifolio-web-henna.vercel.app"
+    }
+   "proxied": true
+}
